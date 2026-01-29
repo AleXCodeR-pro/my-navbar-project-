@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+#navbar {
+    height: 50px;
+    background-color: black;
+
+}
+
+#logo {
+    color: #f08804;
+    font-weight: bolder;
+    font-size: 30px;
+
+}
+
+button {
+    background-color: #f08804;
+    padding: 7px 10px;
+
+
+}
+
+input {
+    border: 1px solid #f08804;
+    padding: 7px 10px;
+    color: black;
+}
+
+.info {
+    margin: 120px;
+    text-decoration: none;
+}
+
+#para {
+    color: black;
+    text-decoration: solid;
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+}
+
+footer {
+    height: 40px;
+    background-color: black;
+    color: gray;
+    font-size: 30px;
+    text-align: center;
+}
+#heading{
+    text-align: center;
+    color: red;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-style: italic;
+}
