@@ -1,0 +1,1 @@
+code 1 = amazon navbar clone   📌 Project Overview I started learning HTML last week and I've just jumped into CSS! This is my first practice project where I tried to recreate the Amazon Navbar to understand positioning and styling. Tech Stack: HTML5 CSS3 (Beginner level) Progress: Learning everyday! 💡
